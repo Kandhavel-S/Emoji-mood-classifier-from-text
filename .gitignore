@@ -19,7 +19,7 @@ env/
 .vscode/
 
 # Data
-/data/
+data/
 
 # Models
 *.pkl
